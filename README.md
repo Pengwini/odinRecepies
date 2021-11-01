@@ -1,0 +1,1 @@
+A small project created as part of the Odin Web Development course. I added css styles independently after learning about it further in the course.
